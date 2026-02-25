@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/sf-yuzifu/Daymatter-AstroBox-Plugin/refs/heads
 https://raw.githubusercontent.com/sf-yuzifu/bandcomic_AstroBox-Plugin/refs/heads/v2/
 https://raw.githubusercontent.com/waterflames-team/clartime-astroplugin-v2-rust/refs/heads/master/
 https://raw.githubusercontent.com/zaona/simple-weather-astrobox-v2-plugin/refs/heads/main/
+https://raw.githubusercontent.com/searchstars/com.bandbbs.ebook-AstroBoxNG/refs/heads/main/
