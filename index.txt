@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/waterflames-team/clartime-astroplugin-v2-rust/
 https://raw.githubusercontent.com/zaona/simple-weather-astrobox-v2-plugin/refs/heads/main/
 https://raw.githubusercontent.com/AzumaChiaki/Varclass-Astrobox-rust/refs/heads/master/
 https://raw.githubusercontent.com/searchstars/com.bandbbs.ebook-AstroBoxNG/refs/heads/main/
+https://raw.githubusercontent.com/FangAiden/Debug-Helper-AstroBox-Plugin/refs/heads/main/
