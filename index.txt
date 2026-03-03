@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/zaona/simple-weather-astrobox-v2-plugin/refs/h
 https://raw.githubusercontent.com/AzumaChiaki/Varclass-Astrobox-rust/refs/heads/master/
 https://raw.githubusercontent.com/searchstars/com.bandbbs.ebook-AstroBoxNG/refs/heads/main/
 https://raw.githubusercontent.com/FangAiden/Debug-Helper-AstroBox-Plugin/refs/heads/main/
+https://raw.githubusercontent.com/FangAiden/VelaSU-AstroBox-Plugin/refs/heads/main/
