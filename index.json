@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T16:57:55.229Z",
+  "generatedAt": "2026-07-18T17:48:31.806Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -310,6 +310,29 @@
           "interconnect",
           "register_interconnect_recv",
           "register_deeplink_action"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/virelyx258/RealZhiXue-Sync-AB-Plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "真智学同步器",
+        "icon": "icon.png",
+        "version": "1.0.3",
+        "description": "将智学网登录凭证安全地传输至表端真智学",
+        "author": "SEEDSOFT",
+        "website": "https://zhixue.seedsoft.cn",
+        "entry": "zhixue_sync.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "device",
+          "interconnect",
+          "thirdpartyapp",
+          "register_interconnect_recv",
+          "register_card"
         ],
         "additional_files": []
       }
