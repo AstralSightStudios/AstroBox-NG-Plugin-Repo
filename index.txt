@@ -12,3 +12,4 @@ https://raw.githubusercontent.com/leset0ng/ab-unlockcode/refs/heads/master/
 https://raw.githubusercontent.com/leset0ng/BandTotp-astrobox/refs/heads/master/
 https://raw.githubusercontent.com/B4QAQ/EternalAstroboxPlugins/refs/heads/master/
 https://raw.githubusercontent.com/Shellplusplus/shell-plus-plus-abv2-plugin/refs/heads/main/
+https://raw.githubusercontent.com/virelyx258/RealZhiXue-Sync-AB-Plugin/refs/heads/main/
