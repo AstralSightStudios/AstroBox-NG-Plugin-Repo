@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T13:49:55.040Z",
+  "generatedAt": "2026-07-21T14:51:38.591Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -51,7 +51,7 @@
       "manifest": {
         "name": "腕上漫画同步器",
         "icon": "icon.png",
-        "version": "1.9",
+        "version": "1.10",
         "description": "在AstroBox上管理腕上漫画",
         "author": "小鱼yuzifu",
         "website": "https://github.com/sf-yuzifu/bandcomic_AstroBox-Plugin",
@@ -62,8 +62,7 @@
           "interconnect",
           "thirdpartyapp",
           "device",
-          "register_interconnect_recv",
-          "dialog"
+          "register_interconnect_recv"
         ],
         "additional_files": []
       }
