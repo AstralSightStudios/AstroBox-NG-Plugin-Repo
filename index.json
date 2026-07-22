@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T13:53:31.555Z",
+  "generatedAt": "2026-07-22T17:19:43.608Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -58,28 +58,6 @@
         "entry": "bandcomic_astrobox_v2_plugin.wasm",
         "wasi_version": 2,
         "api_level": 3,
-        "permissions": [
-          "interconnect",
-          "thirdpartyapp",
-          "device",
-          "register_interconnect_recv"
-        ],
-        "additional_files": []
-      }
-    },
-    {
-      "repo": "https://raw.githubusercontent.com/waterflames-team/clartime-astroplugin-v2-rust/refs/heads/master/",
-      "folder": "dist",
-      "manifest": {
-        "name": "澄序课程配置器",
-        "icon": "icon.png",
-        "version": "2.0",
-        "description": "在AstroBox中发送与修改澄序课程表课程配置信息",
-        "author": "Yulimfish",
-        "website": "https://waterflames.cn/",
-        "entry": "clartime_astrobox_plugin_v2.wasm",
-        "wasi_version": 2,
-        "api_level": 2,
         "permissions": [
           "interconnect",
           "thirdpartyapp",
