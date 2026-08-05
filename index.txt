@@ -14,3 +14,4 @@ https://raw.githubusercontent.com/B4QAQ/EternalAstroboxPlugins/refs/heads/master
 https://raw.githubusercontent.com/Shellplusplus/shell-plus-plus-abv2-plugin/refs/heads/main/
 https://raw.githubusercontent.com/virelyx258/RealZhiXue-Sync-AB-Plugin/refs/heads/main/
 https://raw.githubusercontent.com/IKUN-CXKPRO/QT-Vela-AstroBoxV2-Plugin/refs/heads/main/
+https://raw.githubusercontent.com/WhistleO/otp-helper-astrobox-plugin/refs/heads/master/
