@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T13:31:28.096Z",
+  "generatedAt": "2026-08-11T13:34:04.153Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -400,6 +400,28 @@
           "interconnect",
           "register_interconnect_recv",
           "thirdpartyapp"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Jursin/Schedule-AstroBox-Plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "腕上课程表同步器",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "腕上课程表同步器插件",
+        "author": "Jursin",
+        "website": "https://github.com/Jursin/Schedule-AstroBox-Plugin",
+        "entry": "schedule_plugin_rust.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "device",
+          "interconnect",
+          "thirdpartyapp",
+          "clipboard.write"
         ],
         "additional_files": []
       }
