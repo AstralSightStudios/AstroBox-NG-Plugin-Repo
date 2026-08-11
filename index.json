@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T05:08:01.573Z",
+  "generatedAt": "2026-08-11T08:55:41.803Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -388,8 +388,8 @@
       "manifest": {
         "name": "嘿哈嘚 音频同步",
         "icon": "icon.png",
-        "version": "26.8.10",
-        "description": "26.8.10",
+        "version": "26.8.11",
+        "description": "26.8.11",
         "author": "桦树abc",
         "website": "https://github.com/MinimumBubble11/Heihade_update/",
         "entry": "astrobox_plugin_heihade_audiosync.wasm",
