@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T01:56:15.660Z",
+  "generatedAt": "2026-08-12T05:36:47.992Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -271,7 +271,7 @@
       "manifest": {
         "name": "永昼天气同步器",
         "icon": "icon.png",
-        "version": "3.3.27",
+        "version": "3.3.29",
         "description": "在AstroBox中同步天气数据到永昼天气",
         "author": "B4QAQ",
         "website": "https://docs.b4qaq.cn/docs/eternal",
