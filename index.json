@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T16:55:41.745Z",
+  "generatedAt": "2026-08-13T16:59:28.549Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -444,6 +444,29 @@
           "thirdpartyapp",
           "device",
           "register_interconnect_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/WhistleO/smsforwarder-helper-astrobox-plugin/refs/heads/master/",
+      "folder": "dist",
+      "manifest": {
+        "name": "SmsForwarder Client助手",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "管理手表端SmsForwarder连接数据：支持转发规则配置、设备互联、短信同步等",
+        "author": "WhistleO",
+        "website": "https://github.com/SmsForwarder/smsforwarder-helper-astrobox-plugin",
+        "entry": "smsforwarder_helper.wasm",
+        "wasi_version": 2,
+        "api_level": 2,
+        "permissions": [
+          "device",
+          "interconnect",
+          "register_interconnect_recv",
+          "thirdpartyapp",
+          "get_thirdparty_app_list"
         ],
         "additional_files": []
       }
