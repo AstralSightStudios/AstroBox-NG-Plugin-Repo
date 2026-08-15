@@ -19,3 +19,4 @@ https://raw.githubusercontent.com/MinimumBubble11/Heihade_update/refs/heads/main
 https://raw.githubusercontent.com/Jursin/Schedule-AstroBox-Plugin/refs/heads/main/
 https://raw.githubusercontent.com/B4QAQ/SimpleFetch-AstroBoxV2-Plugins/refs/heads/main/
 https://raw.githubusercontent.com/WhistleO/smsforwarder-helper-astrobox-plugin/refs/heads/master/
+https://raw.githubusercontent.com/AstralSightStudios/Canopus-App-LyraPlayer/refs/heads/main/
