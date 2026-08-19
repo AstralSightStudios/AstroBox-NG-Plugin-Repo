@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T20:24:33.606Z",
+  "generatedAt": "2026-08-19T01:13:58.459Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -467,6 +467,27 @@
           "register_interconnect_recv",
           "thirdpartyapp",
           "get_thirdparty_app_list"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/AstralSightStudios/Canopus-App-LyraPlayer/refs/heads/main/",
+      "folder": "plugins/astrobox-lyra-import/dist",
+      "manifest": {
+        "name": "Lyra音乐导入器",
+        "icon": "icon.png",
+        "version": "0.3.1",
+        "description": "将本地MP3或网易云音乐中的资源通过Lyra Import快应用导入Lyra Player",
+        "author": "Searchstars",
+        "website": "",
+        "entry": "astrobox_plugin_lyra_import.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "interconnect",
+          "register_interconnect_recv",
+          "device"
         ],
         "additional_files": []
       }
