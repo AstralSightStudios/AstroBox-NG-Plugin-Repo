@@ -21,3 +21,4 @@ https://raw.githubusercontent.com/B4QAQ/SimpleFetch-AstroBoxV2-Plugins/refs/head
 https://raw.githubusercontent.com/WhistleO/smsforwarder-helper-astrobox-plugin/refs/heads/master/
 https://raw.githubusercontent.com/AstralSightStudios/Canopus-App-LyraPlayer/refs/heads/main/
 https://raw.githubusercontent.com/MCXCC303/dsboard/refs/heads/main/
+https://raw.githubusercontent.com/rufus-fan/dswatch-sync/refs/heads/main/
