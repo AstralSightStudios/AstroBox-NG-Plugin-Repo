@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T07:50:06.019Z",
+  "generatedAt": "2026-08-27T18:53:24.325Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -410,7 +410,7 @@
       "manifest": {
         "name": "腕上课程表同步器",
         "icon": "icon.png",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "description": "腕上课程表同步器插件",
         "author": "Jursin",
         "website": "https://github.com/Jursin/Schedule-AstroBox-Plugin",
