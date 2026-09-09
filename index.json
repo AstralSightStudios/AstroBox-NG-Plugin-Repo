@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T03:51:41.639Z",
+  "generatedAt": "2026-09-09T04:58:38.091Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -534,6 +534,27 @@
           "interconnect",
           "register_interconnect_recv",
           "thirdpartyapp"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/zaona/class-loop/refs/heads/master/",
+      "folder": "plugins/astrobox-loop-import/dist",
+      "manifest": {
+        "name": "Loop课表导入器",
+        "icon": "icon.png",
+        "version": "0.2.6",
+        "description": "与 Loop Import 配合使用， 将 ICS 课表推送到手表。",
+        "author": "zaona",
+        "website": "",
+        "entry": "astrobox_plugin_loop_import.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "interconnect",
+          "register_interconnect_recv",
+          "device"
         ],
         "additional_files": []
       }
