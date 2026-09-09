@@ -22,4 +22,4 @@ https://raw.githubusercontent.com/WhistleO/smsforwarder-helper-astrobox-plugin/r
 https://raw.githubusercontent.com/AstralSightStudios/Canopus-App-LyraPlayer/refs/heads/main/
 https://raw.githubusercontent.com/MCXCC303/dsboard/refs/heads/main/
 https://raw.githubusercontent.com/rufus-fan/dswatch-sync/refs/heads/main/
-https://raw.githubusercontent.com/zaona/class-loop/refs/heads/main/
+https://raw.githubusercontent.com/zaona/class-loop/refs/heads/master/
