@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T08:38:17.613Z",
+  "generatedAt": "2026-09-11T14:55:20.643Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -555,6 +555,28 @@
           "interconnect",
           "register_interconnect_recv",
           "device"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/NengGanHui/com.bandbbs.ebook-AstroBox/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "弦电子书同步器",
+        "icon": "icon.png",
+        "version": "2.2.0",
+        "description": "在 AstroBox 中同步弦电子书：分章、封面、书籍信息、手环状态与阅读设置",
+        "author": "nengganhui & lesetong",
+        "website": "https://github.com/NengGanHui/com.bandbbs.ebook-AstroBox",
+        "entry": "ebooksync-ng.wasm",
+        "wasi_version": 2,
+        "api_level": 2,
+        "permissions": [
+          "device",
+          "interconnect",
+          "register_interconnect_recv",
+          "thirdpartyapp"
         ],
         "additional_files": []
       }
