@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T03:19:21.489Z",
+  "generatedAt": "2026-09-11T05:21:54.316Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -544,7 +544,7 @@
       "manifest": {
         "name": "Loop课表导入器",
         "icon": "icon.png",
-        "version": "0.2.7",
+        "version": "0.2.8",
         "description": "与 Loop Import 配合使用， 将 ICS 课表推送到手表。",
         "author": "zaona",
         "website": "https://loop.zaona.top/",
