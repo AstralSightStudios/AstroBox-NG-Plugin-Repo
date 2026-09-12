@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T22:17:05.574Z",
+  "generatedAt": "2026-09-12T03:24:31.136Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -80,28 +80,6 @@
         "entry": "clartime_astrobox_plugin_v2.wasm",
         "wasi_version": 2,
         "api_level": 2,
-        "permissions": [
-          "interconnect",
-          "thirdpartyapp",
-          "device",
-          "register_interconnect_recv"
-        ],
-        "additional_files": []
-      }
-    },
-    {
-      "repo": "https://raw.githubusercontent.com/zaona/simple-weather-astrobox-v2-plugin/refs/heads/main/",
-      "folder": "release",
-      "manifest": {
-        "name": "简明天气同步器",
-        "icon": "icon.png",
-        "version": "3.2.0",
-        "description": "在AstroBox中同步天气数据到简明天气",
-        "author": "Zaona",
-        "website": "https://weather.zaona.top/",
-        "entry": "simple-weather-astrobox-v2-plugin.wasm",
-        "wasi_version": 2,
-        "api_level": 3,
         "permissions": [
           "interconnect",
           "thirdpartyapp",
@@ -410,7 +388,7 @@
       "manifest": {
         "name": "腕上课程表同步器",
         "icon": "icon.png",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "description": "腕上课程表同步器插件",
         "author": "Jursin",
         "website": "https://github.com/Jursin/Schedule-AstroBox-Plugin",
@@ -555,6 +533,28 @@
           "interconnect",
           "register_interconnect_recv",
           "device"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/NengGanHui/com.bandbbs.ebook-AstroBox/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "弦电子书同步器",
+        "icon": "icon.png",
+        "version": "2.2.0",
+        "description": "在 AstroBox 中同步弦电子书：分章、封面、书籍信息、手环状态与阅读设置",
+        "author": "nengganhui & lesetong",
+        "website": "https://github.com/NengGanHui/com.bandbbs.ebook-AstroBox",
+        "entry": "ebooksync-ng.wasm",
+        "wasi_version": 2,
+        "api_level": 2,
+        "permissions": [
+          "device",
+          "interconnect",
+          "register_interconnect_recv",
+          "thirdpartyapp"
         ],
         "additional_files": []
       }
