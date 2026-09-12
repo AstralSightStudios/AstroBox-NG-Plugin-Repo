@@ -24,3 +24,4 @@ https://raw.githubusercontent.com/MCXCC303/dsboard/refs/heads/main/
 https://raw.githubusercontent.com/rufus-fan/dswatch-sync/refs/heads/main/
 https://raw.githubusercontent.com/zaona/class-loop/refs/heads/master/
 https://raw.githubusercontent.com/NengGanHui/com.bandbbs.ebook-AstroBox/refs/heads/main/
+https://raw.githubusercontent.com/qihe114514/amakano2-import/refs/heads/main/
