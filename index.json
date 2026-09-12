@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T03:24:31.136Z",
+  "generatedAt": "2026-09-12T08:24:08.231Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -80,6 +80,28 @@
         "entry": "clartime_astrobox_plugin_v2.wasm",
         "wasi_version": 2,
         "api_level": 2,
+        "permissions": [
+          "interconnect",
+          "thirdpartyapp",
+          "device",
+          "register_interconnect_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/zaona/simple-weather-astrobox-v2-plugin/refs/heads/main/",
+      "folder": "release",
+      "manifest": {
+        "name": "简明天气同步器",
+        "icon": "icon.png",
+        "version": "3.2.0",
+        "description": "在AstroBox中同步天气数据到简明天气",
+        "author": "Zaona",
+        "website": "https://weather.zaona.top/",
+        "entry": "simple-weather-astrobox-v2-plugin.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
         "permissions": [
           "interconnect",
           "thirdpartyapp",
