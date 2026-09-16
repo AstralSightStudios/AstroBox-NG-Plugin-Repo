@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T16:15:38.359Z",
+  "generatedAt": "2026-09-16T16:39:24.692Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -477,7 +477,7 @@
       "manifest": {
         "name": "Lyra音乐导入器",
         "icon": "icon.png",
-        "version": "0.3.1",
+        "version": "0.4.0",
         "description": "将本地MP3或网易云音乐中的资源通过Lyra Import快应用导入Lyra Player",
         "author": "Searchstars",
         "website": "",
