@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T09:01:53.852Z",
+  "generatedAt": "2026-09-24T16:36:28.879Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -587,7 +587,7 @@
       "manifest": {
         "name": "甜蜜女友2导入器",
         "icon": "icon.png",
-        "version": "1.0.0",
+        "version": "1.5.1",
         "description": "向手环推送 甜蜜女友2 的剧情以及存档管理等",
         "author": "其核",
         "website": "https://miband.qihe0507.top/",
