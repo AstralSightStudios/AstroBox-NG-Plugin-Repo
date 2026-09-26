@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T09:10:50.216Z",
+  "generatedAt": "2026-09-26T13:50:06.666Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -643,6 +643,30 @@
         "additional_files": [
           "LICENSE"
         ]
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/KomoriDev/kovela/refs/heads/main/",
+      "folder": "plugins/astrobox/dist/kovela",
+      "manifest": {
+        "name": "Kovela",
+        "icon": "icon.png",
+        "version": "1.4.3",
+        "description": "验证购买并为 mi-vela 应用安全激活",
+        "author": "Komorebi",
+        "website": "https://kovela.komoridevs.icu",
+        "entry": "kovela_astrobox.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "network",
+          "device",
+          "interconnect",
+          "thirdpartyapp",
+          "register_interconnect_recv",
+          "timer"
+        ],
+        "additional_files": []
       }
     }
   ]
