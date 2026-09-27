@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T03:59:58.381Z",
+  "generatedAt": "2026-09-27T09:57:08.454Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -587,8 +587,8 @@
       "manifest": {
         "name": "甜蜜女友2导入器",
         "icon": "icon.png",
-        "version": "1.5.1",
-        "description": "向手环推送 甜蜜女友2 的剧情以及存档管理等",
+        "version": "1.6.2",
+        "description": "向手环推送 甜蜜女友2 的章节图片以及存档管理等",
         "author": "其核",
         "website": "https://miband.qihe0507.top/",
         "entry": "amakano2_import.wasm",
