@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/NengGanHui/com.bandbbs.ebook-AstroBox/refs/hea
 https://raw.githubusercontent.com/qihe114514/amakano2-import/refs/heads/main/
 https://raw.githubusercontent.com/henrrybyhao/com.h.rycd-cj/refs/heads/main/
 https://raw.githubusercontent.com/KomoriDev/kovela/refs/heads/main/
+https://raw.githubusercontent.com/leset0ng/Conora-editor/refs/heads/master/
