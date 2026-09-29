@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T15:04:59.269Z",
+  "generatedAt": "2026-09-29T17:45:17.435Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -565,10 +565,10 @@
       "manifest": {
         "name": "弦电子书同步器",
         "icon": "icon.png",
-        "version": "2.2.0",
+        "version": "26.5.1",
         "description": "在 AstroBox 中同步弦电子书：分章、封面、书籍信息、手环状态与阅读设置(非官方)",
         "author": "nengganhui & lesetong",
-        "website": "https://github.com/NengGanHui/com.bandbbs.ebook-AstroBox",
+        "website": "https://qun.qq.com/universal-share/share?ac=1&authKey=oN1kN9htSh1ztoGU%2Bmfmc%2Fjb1JyD8BMu5V1gkCuLXmqnRzSHg9Kn5EHrOlsr1vFc&busi_data=eyJncm91cENvZGUiOiIxMTA3OTc0Mzg3IiwidG9rZW4iOiJUUWwrSEltR1dwUFBRV3dXSlE0WWc5azZRMHBTdk5IeG85bmZXOG4rN2JVWHBLdFJ1S1REZzRFS1p3R3N1M1p2IiwidWluIjoiNjQ3NzQwMDkyIn0%3D&data=-p4y15VZMUxfGWShGckLqDPX3Cw6m9OZW8Tm5DwuDc6MyaV4lJBBmjgaH1gxqEhK0fNLblOuYY2gE1xsgjkUKA&svctype=4&tempid=h5_group_info",
         "entry": "ebooksync-ng.wasm",
         "wasi_version": 2,
         "api_level": 2,
