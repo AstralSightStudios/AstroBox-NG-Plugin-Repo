@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T09:19:02.956Z",
+  "generatedAt": "2026-09-30T14:39:48.438Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -567,7 +567,7 @@
         "icon": "icon.png",
         "version": "26.5.4",
         "description": "在 AstroBox 中同步弦电子书：分章、封面/插图、书籍信息、阅读进度、删除书籍/章节、手环状态与阅读设置(非官方，需手环端 V26.5.4+)",
-        "author": "nengganhui & lesetong",
+        "author": "nengganhui",
         "website": "https://qun.qq.com/universal-share/share?ac=1&authKey=oN1kN9htSh1ztoGU%2Bmfmc%2Fjb1JyD8BMu5V1gkCuLXmqnRzSHg9Kn5EHrOlsr1vFc&busi_data=eyJncm91cENvZGUiOiIxMTA3OTc0Mzg3IiwidG9rZW4iOiJUUWwrSEltR1dwUFBRV3dXSlE0WWc5azZRMHBTdk5IeG85bmZXOG4rN2JVWHBLdFJ1S1REZzRFS1p3R3N1M1p2IiwidWluIjoiNjQ3NzQwMDkyIn0%3D&data=-p4y15VZMUxfGWShGckLqDPX3Cw6m9OZW8Tm5DwuDc6MyaV4lJBBmjgaH1gxqEhK0fNLblOuYY2gE1xsgjkUKA&svctype=4&tempid=h5_group_info",
         "entry": "ebooksync-ng.wasm",
         "wasi_version": 2,
