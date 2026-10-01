@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T04:29:36.430Z",
+  "generatedAt": "2026-10-01T15:08:29.094Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -571,7 +571,7 @@
         "website": "https://qun.qq.com/universal-share/share?ac=1&authKey=oN1kN9htSh1ztoGU%2Bmfmc%2Fjb1JyD8BMu5V1gkCuLXmqnRzSHg9Kn5EHrOlsr1vFc&busi_data=eyJncm91cENvZGUiOiIxMTA3OTc0Mzg3IiwidG9rZW4iOiJUUWwrSEltR1dwUFBRV3dXSlE0WWc5azZRMHBTdk5IeG85bmZXOG4rN2JVWHBLdFJ1S1REZzRFS1p3R3N1M1p2IiwidWluIjoiNjQ3NzQwMDkyIn0%3D&data=-p4y15VZMUxfGWShGckLqDPX3Cw6m9OZW8Tm5DwuDc6MyaV4lJBBmjgaH1gxqEhK0fNLblOuYY2gE1xsgjkUKA&svctype=4&tempid=h5_group_info",
         "entry": "ebooksync-ng.wasm",
         "wasi_version": 2,
-        "api_level": 2,
+        "api_level": 3,
         "permissions": [
           "device",
           "interconnect",
@@ -587,8 +587,8 @@
       "manifest": {
         "name": "甜蜜女友2导入器",
         "icon": "icon.png",
-        "version": "1.6.2",
-        "description": "向手环推送 甜蜜女友2 的章节图片以及存档管理等",
+        "version": "2.0.0",
+        "description": "把《甜蜜女友2》的章节图片同步到手环，并管理存档与阅读统计",
         "author": "其核",
         "website": "https://miband.qihe0507.top/",
         "entry": "amakano2_import.wasm",
@@ -602,6 +602,7 @@
           "thirdpartyapp"
         ],
         "additional_files": [
+          "packs/p00.pack",
           "packs/p01.pack",
           "packs/p02.pack",
           "packs/p03.pack",
@@ -651,7 +652,7 @@
       "manifest": {
         "name": "Kovela",
         "icon": "icon.png",
-        "version": "1.5.1",
+        "version": "1.8.0",
         "description": "验证购买并为 mi-vela 应用安全激活",
         "author": "Komorebi",
         "website": "https://kovela.komoridevs.icu",
@@ -664,7 +665,9 @@
           "interconnect",
           "thirdpartyapp",
           "register_interconnect_recv",
-          "timer"
+          "timer",
+          "clipboard.read",
+          "clipboard.write"
         ],
         "additional_files": []
       }
@@ -675,7 +678,7 @@
       "manifest": {
         "name": "Conora CRPack Builder",
         "icon": "icon.png",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "description": "从手环固件资源树创建 Conora CRPack v1 主题包",
         "author": "lesetong",
         "website": "https://leseto.ng",
