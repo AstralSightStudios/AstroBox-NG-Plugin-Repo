@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T15:08:29.094Z",
+  "generatedAt": "2026-10-01T20:49:50.565Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -652,7 +652,7 @@
       "manifest": {
         "name": "Kovela",
         "icon": "icon.png",
-        "version": "1.8.0",
+        "version": "1.8.2",
         "description": "验证购买并为 mi-vela 应用安全激活",
         "author": "Komorebi",
         "website": "https://kovela.komoridevs.icu",
@@ -678,7 +678,7 @@
       "manifest": {
         "name": "Conora CRPack Builder",
         "icon": "icon.png",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "description": "从手环固件资源树创建 Conora CRPack v1 主题包",
         "author": "lesetong",
         "website": "https://leseto.ng",
