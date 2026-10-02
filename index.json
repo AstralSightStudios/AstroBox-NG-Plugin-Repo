@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T04:22:10.396Z",
+  "generatedAt": "2026-10-02T05:56:11.293Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -678,7 +678,7 @@
       "manifest": {
         "name": "Conora CRPack Builder",
         "icon": "icon.png",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "description": "从手环固件资源树创建 Conora CRPack v1 主题包",
         "author": "lesetong",
         "website": "https://leseto.ng",
