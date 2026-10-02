@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T05:56:11.293Z",
+  "generatedAt": "2026-10-02T09:29:03.686Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -587,7 +587,7 @@
       "manifest": {
         "name": "甜蜜女友2导入器",
         "icon": "icon.png",
-        "version": "2.0.0",
+        "version": "2.2.0",
         "description": "把《甜蜜女友2》的章节图片同步到手环，并管理存档与阅读统计",
         "author": "其核",
         "website": "https://miband.qihe0507.top/",
@@ -608,16 +608,6 @@
           "packs/p03.pack",
           "packs/p04.pack",
           "packs/p05.pack",
-          "packs/p06.pack",
-          "packs/p07.pack",
-          "packs/p08.pack",
-          "packs/p09.pack",
-          "packs/p10.pack",
-          "packs/p11.pack",
-          "packs/p12.pack",
-          "packs/p13.pack",
-          "packs/p14.pack",
-          "packs/p15.pack",
           "packs/index.json"
         ]
       }
@@ -676,13 +666,13 @@
       "repo": "https://raw.githubusercontent.com/leset0ng/Conora-editor/refs/heads/master/",
       "folder": "dist",
       "manifest": {
-        "name": "Conora CRPack Builder",
+        "name": "Corona CRPack Builder",
         "icon": "icon.png",
-        "version": "1.0.5",
-        "description": "从手环固件资源树创建 Conora CRPack v1 主题包",
+        "version": "1.0.6",
+        "description": "从手环固件资源树创建 Corona CRPack v1 主题包",
         "author": "lesetong",
         "website": "https://leseto.ng",
-        "entry": "conora_crpack_builder.wasm",
+        "entry": "corona_crpack_builder.wasm",
         "wasi_version": 2,
         "api_level": 4,
         "permissions": [],
