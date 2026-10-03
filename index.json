@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T07:55:49.777Z",
+  "generatedAt": "2026-10-03T13:05:21.882Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -687,10 +687,10 @@
       "manifest": {
         "name": "环上方舟配置器",
         "icon": "icon.png",
-        "version": "1.0.1",
+        "version": "1.0.3",
         "description": "环上方舟资源包管理",
-        "author": "ArkNightSPoor",
-        "website": "https://github.com/SXM081115/astrobox-resource-com-arknights-spoor-gacha",
+        "author": "SXM",
+        "website": "https://github.com/SXM081115",
         "entry": "arknightspoor_art_plugin.wasm",
         "wasi_version": 2,
         "api_level": 3,
