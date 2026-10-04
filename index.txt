@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/rufus-fan/dswatch-sync/refs/heads/main/
 https://raw.githubusercontent.com/zaona/class-loop/refs/heads/master/
 https://raw.githubusercontent.com/NengGanHui/com.bandbbs.ebook-AstroBox/refs/heads/main/
 https://raw.githubusercontent.com/qihe114514/amakano2-import/refs/heads/main/
-https://raw.githubusercontent.com/henrrybyhao/com.h.rycd-cj/refs/heads/main/
+https://raw.githubusercontent.com/henrrybyhao/com.h.rycd-cj/refs/heads/release-1.0.8/
 https://raw.githubusercontent.com/KomoriDev/kovela/refs/heads/main/
 https://raw.githubusercontent.com/leset0ng/Conora-editor/refs/heads/master/
 https://raw.githubusercontent.com/SXM081115/BandArk_AstroBoxPlugin-release/refs/heads/main/
