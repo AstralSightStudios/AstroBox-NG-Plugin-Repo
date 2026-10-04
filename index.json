@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T04:37:38.663Z",
+  "generatedAt": "2026-10-04T13:43:59.932Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -620,7 +620,7 @@
       "manifest": {
         "name": "日语词典",
         "icon": "icon.png",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "description": "连接日语单词或日语词典并导入自定义单词",
         "author": "号",
         "website": "https://afdian.com/a/velabyh",
@@ -687,7 +687,7 @@
       "manifest": {
         "name": "环上方舟配置器",
         "icon": "icon.png",
-        "version": "1.0.14",
+        "version": "1.0.15",
         "description": "环上方舟资源包管理",
         "author": "SXM",
         "website": "https://github.com/SXM081115",
