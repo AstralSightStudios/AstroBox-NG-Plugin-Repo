@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T06:28:26.267Z",
+  "generatedAt": "2026-10-05T16:50:50.478Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -390,13 +390,13 @@
       "manifest": {
         "name": "嘿哈嘚 音频同步",
         "icon": "icon.png",
-        "version": "26.8.14",
-        "description": "26.8.14",
+        "version": "26.10.5",
+        "description": "把音频与封面同步为手表自定义音效；同步前自动去静音、压缩至 64k（非 MP3 自动转为 MP3，体积变大时保留原文件），封面自动转为 PNG，并可管理已同步的音效。",
         "author": "桦树abc",
         "website": "https://github.com/MinimumBubble11/Heihade_update/",
         "entry": "astrobox_plugin_heihade_audiosync.wasm",
-        "wasi_version": 2,
-        "api_level": 3,
+        "wasi_version": 3,
+        "api_level": 4,
         "permissions": [
           "device",
           "interconnect",
