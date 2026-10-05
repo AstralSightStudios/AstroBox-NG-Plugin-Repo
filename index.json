@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T04:23:41.005Z",
+  "generatedAt": "2026-10-05T06:28:26.267Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -702,6 +702,29 @@
           "thirdpartyapp",
           "timer",
           "clipboard.write"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/CHEN-EXE/BandClass_plugin_repo/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "BandClass 同步器插件",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "与 小米手环小程序 BandClass 联动的插件，快速管理课程数据和设置项。",
+        "author": "qyhOH",
+        "website": "https://bandclass.netlify.app/",
+        "entry": "astrobox_ng_plugin_template_rust.wasm",
+        "wasi_version": 2,
+        "api_level": 2,
+        "permissions": [
+          "device",
+          "interconnect",
+          "thirdpartyapp",
+          "register_interconnect_recv",
+          "dialog"
         ],
         "additional_files": []
       }
