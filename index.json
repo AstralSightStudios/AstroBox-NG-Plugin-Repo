@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T23:36:11.470Z",
+  "generatedAt": "2026-10-07T04:38:07.532Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -712,8 +712,8 @@
       "manifest": {
         "name": "BandClass 同步器插件",
         "icon": "icon.png",
-        "version": "1.0.0",
-        "description": "与 小米手环小程序 BandClass 联动的插件，快速管理课程数据和设置项。",
+        "version": "1.0.1",
+        "description": "与 小米手环/红米手表快应用 BandClass 联动的插件，快速管理课程数据和设置项。课程表编辑前往：https://bandclass.netlify.app/editor/",
         "author": "qyhOH",
         "website": "https://bandclass.netlify.app/",
         "entry": "astrobox_ng_plugin_template_rust.wasm",
