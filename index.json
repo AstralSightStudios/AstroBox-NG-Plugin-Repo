@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T04:38:07.532Z",
+  "generatedAt": "2026-10-07T06:10:09.816Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -727,6 +727,32 @@
           "dialog"
         ],
         "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/henrrybyhao/com.h.studyce-cj/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "腕上学习",
+        "icon": "icon.png",
+        "version": "0.2.1",
+        "description": "双版本连接、分类管理、诗文英语一键及在线预览导入与确认删除",
+        "author": "号",
+        "website": "https://afdian.com/a/velabyh",
+        "entry": "study_astrobox_plugin.wasm",
+        "wasi_version": 2,
+        "api_level": 2,
+        "permissions": [
+          "device",
+          "interconnect",
+          "register_interconnect_recv",
+          "thirdpartyapp",
+          "clipboard.read"
+        ],
+        "additional_files": [
+          "LICENSE",
+          "WIT-LICENSE"
+        ]
       }
     }
   ]
