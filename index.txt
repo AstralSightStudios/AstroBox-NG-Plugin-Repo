@@ -32,3 +32,4 @@ https://raw.githubusercontent.com/SXM081115/BandArk_AstroBoxPlugin-release/refs/
 https://raw.githubusercontent.com/CHEN-EXE/BandClass_plugin_repo/refs/heads/main/
 https://raw.githubusercontent.com/henrrybyhao/com.h.studyce-cj/refs/heads/main/
 https://raw.githubusercontent.com/cciccicu/JSLab-AstroBox-Plugin-Release/refs/heads/main/
+https://raw.githubusercontent.com/CakeAL/velajs-speedometer/refs/heads/main/
