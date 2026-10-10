@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T20:34:37.296Z",
+  "generatedAt": "2026-10-10T04:29:41.457Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -753,6 +753,29 @@
           "LICENSE",
           "WIT-LICENSE"
         ]
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/cciccicu/JSLab-AstroBox-Plugin-Release/refs/heads/main/",
+      "folder": "jslab-sync",
+      "manifest": {
+        "name": "JSLab Sync",
+        "icon": "icon.png",
+        "version": "2.0.0",
+        "description": "通过 AstroBox 管理和同步 JSLab 脚本",
+        "author": "ccicc",
+        "website": "https://ccicc.icu",
+        "entry": "jslab_sync.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "device",
+          "interconnect",
+          "network",
+          "thirdpartyapp",
+          "register_interconnect_recv"
+        ],
+        "additional_files": []
       }
     }
   ]
