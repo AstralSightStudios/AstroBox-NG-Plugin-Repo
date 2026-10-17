@@ -34,3 +34,4 @@ https://raw.githubusercontent.com/henrrybyhao/com.h.studyce-cj/refs/heads/main/
 https://raw.githubusercontent.com/cciccicu/JSLab-AstroBox-Plugin-Release/refs/heads/main/
 https://raw.githubusercontent.com/CakeAL/velajs-speedometer/refs/heads/main/
 https://raw.githubusercontent.com/DecafDoppio/Codex-Band-Bridge/refs/heads/astrobox-release/
+https://raw.githubusercontent.com/KomoriDev/kovela-watermelon/refs/heads/main/
