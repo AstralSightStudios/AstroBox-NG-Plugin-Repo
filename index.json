@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T08:41:42.339Z",
+  "generatedAt": "2026-10-24T11:29:46.216Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -878,6 +878,27 @@
           "interconnect",
           "register_interconnect_recv",
           "thirdpartyapp"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Alittlejelly/nexio-band-sync/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "Nexio课程表推送器",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "导入 Nexio 课程表 JSON（v4 整表），一键推送到小米手环/手表端的课程表快应用；手环端请求课时也会自动响应",
+        "author": "NexioSchedule",
+        "website": "https://haozai000.github.io/NexioSchedule/",
+        "entry": "nexio_band_sync.wasm",
+        "wasi_version": 2,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "interconnect",
+          "register_interconnect_recv"
         ],
         "additional_files": []
       }
