@@ -36,3 +36,4 @@ https://raw.githubusercontent.com/CakeAL/velajs-speedometer/refs/heads/main/
 https://raw.githubusercontent.com/DecafDoppio/Codex-Band-Bridge/refs/heads/astrobox-release/
 https://raw.githubusercontent.com/KomoriDev/kovela-watermelon/refs/heads/main/
 https://raw.githubusercontent.com/henrrybyhao/com.h.box-cj/refs/heads/main/
+https://raw.githubusercontent.com/Alittlejelly/nexio-band-sync/refs/heads/main/
