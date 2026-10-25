@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T08:58:14.803Z",
+  "generatedAt": "2026-10-25T15:39:09.870Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -888,9 +888,9 @@
       "manifest": {
         "name": "Nexio课程表推送器",
         "icon": "icon.png",
-        "version": "1.0.0",
-        "description": "导入 Nexio 课程表 JSON（v4 整表），一键推送到小米手环/手表端的课程表快应用；手环端请求课时也会自动响应",
-        "author": "NexioSchedule",
+        "version": "1.0.1",
+        "description": "导入课表至Nexio手环端，支持导入JSON/ics文件",
+        "author": "一個小果冻",
         "website": "https://haozai000.github.io/NexioSchedule/",
         "entry": "nexio_band_sync.wasm",
         "wasi_version": 2,
