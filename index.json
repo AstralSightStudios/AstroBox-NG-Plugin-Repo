@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T22:15:58.993Z",
+  "generatedAt": "2026-10-25T03:28:41.038Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -736,7 +736,7 @@
       "manifest": {
         "name": "腕上学习",
         "icon": "icon.png",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "description": "双版本连接、分类管理、诗文英语一键及在线预览导入与确认删除",
         "author": "号",
         "website": "https://afdian.com/a/velabyh",
