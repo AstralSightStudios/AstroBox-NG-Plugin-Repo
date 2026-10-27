@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T23:35:40.694Z",
+  "generatedAt": "2026-10-27T03:57:01.339Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -96,18 +96,19 @@
       "manifest": {
         "name": "简明天气同步器",
         "icon": "icon.png",
-        "version": "3.2.0",
+        "version": "3.3.0",
         "description": "在AstroBox中同步天气数据到简明天气",
         "author": "Zaona",
         "website": "https://weather.zaona.top/",
         "entry": "simple-weather-astrobox-v2-plugin.wasm",
-        "wasi_version": 2,
-        "api_level": 3,
+        "wasi_version": 3,
+        "api_level": 4,
         "permissions": [
           "interconnect",
           "thirdpartyapp",
           "device",
-          "register_interconnect_recv"
+          "register_interconnect_recv",
+          "os.device-id"
         ],
         "additional_files": []
       }
