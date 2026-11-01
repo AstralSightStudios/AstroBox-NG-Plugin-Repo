@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T03:46:33.637Z",
+  "generatedAt": "2026-11-01T04:42:16.515Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -589,19 +589,23 @@
       "manifest": {
         "name": "甜蜜女友2导入器",
         "icon": "icon.png",
-        "version": "2.2.0",
-        "description": "把《甜蜜女友2》的章节图片同步到手环，并管理存档与阅读统计",
+        "version": "4.5.0",
+        "description": "把《甜蜜女友2》的章节图片同步到手环，并管理存档、阅读统计与云存档（HTML 界面 · API Level 4）",
         "author": "其核",
         "website": "https://miband.qihe0507.top/",
         "entry": "amakano2_import.wasm",
-        "wasi_version": 2,
-        "api_level": 2,
+        "wasi_version": 3,
+        "api_level": 4,
         "permissions": [
           "device",
           "ui",
           "interconnect",
           "register_interconnect_recv",
-          "thirdpartyapp"
+          "thirdpartyapp",
+          "account.profile",
+          "network",
+          "http-server",
+          "browser"
         ],
         "additional_files": [
           "packs/p00.pack",
@@ -610,7 +614,10 @@
           "packs/p03.pack",
           "packs/p04.pack",
           "packs/p05.pack",
-          "packs/index.json"
+          "packs/index.json",
+          "packs/cloud-config.json",
+          "web/fonts",
+          "web/icon.png"
         ]
       }
     },
