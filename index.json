@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T05:33:27.593Z",
+  "generatedAt": "2026-11-01T14:46:19.142Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -892,13 +892,13 @@
       "manifest": {
         "name": "BandClass 同步器插件",
         "icon": "icon.png",
-        "version": "1.1.1",
+        "version": "1.1.9",
         "description": "与 小米手环/红米手表快应用 BandClass 联动的插件，快速管理课程数据和设置项。课程表编辑前往：https://bandclass.netlify.app/editor/",
         "author": "qyhOH",
         "website": "https://bandclass.netlify.app/",
         "entry": "astrobox_ng_plugin_template_rust.wasm",
-        "wasi_version": 2,
-        "api_level": 2,
+        "wasi_version": 3,
+        "api_level": 4,
         "permissions": [
           "device",
           "interconnect",
@@ -941,7 +941,7 @@
       "manifest": {
         "name": "JSLab Sync",
         "icon": "icon.png",
-        "version": "2.0.0",
+        "version": "2.0.1",
         "description": "通过 AstroBox 管理和同步 JSLab 脚本",
         "author": "ccicc",
         "website": "https://ccicc.icu",
