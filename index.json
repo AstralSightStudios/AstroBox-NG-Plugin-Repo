@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T14:46:19.142Z",
+  "generatedAt": "2026-11-01T16:15:06.554Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -546,7 +546,7 @@
       "manifest": {
         "name": "Loop课表导入器",
         "icon": "icon.png",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "description": "通过 CanopusConnect 将 ICS 课表直接导入手表 Loop。",
         "author": "zaona",
         "website": "https://loop.zaona.top/",
