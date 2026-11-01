@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T23:07:08.386Z",
+  "generatedAt": "2026-11-01T01:25:16.967Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -879,6 +879,29 @@
           "device",
           "interconnect",
           "register_interconnect_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/ashafizullah/astrobox-resource-com.ashafizullah.klikband/refs/heads/main/",
+      "folder": "plugin",
+      "manifest": {
+        "name": "KlikBand",
+        "icon": "icon.png",
+        "version": "1.1.1",
+        "description": "Send any place in the world to KlikBand on your band, for its prayer times and Qibla. 为手环上的 KlikBand 设置全球任意地点，用于礼拜时间和朝向。",
+        "author": "Adam Suchi Hafizullah",
+        "website": "https://github.com/ashafizullah/klikband",
+        "entry": "klikband_astrobox.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "network",
+          "device",
+          "interconnect",
+          "register_interconnect_recv",
+          "thirdpartyapp"
         ],
         "additional_files": []
       }
