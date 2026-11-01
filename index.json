@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T01:27:03.522Z",
+  "generatedAt": "2026-11-01T03:45:13.278Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -541,6 +541,27 @@
       }
     },
     {
+      "repo": "https://raw.githubusercontent.com/zaona/class-loop/refs/heads/master/",
+      "folder": "plugins/astrobox-loop-import/dist",
+      "manifest": {
+        "name": "Loop课表导入器",
+        "icon": "icon.png",
+        "version": "0.3.0",
+        "description": "通过 CanopusConnect 将 ICS 课表直接导入手表 Loop。",
+        "author": "zaona",
+        "website": "https://loop.zaona.top/",
+        "entry": "astrobox_plugin_loop_import.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "canopusconnect.send",
+          "canopusconnect.listen",
+          "device"
+        ],
+        "additional_files": []
+      }
+    },
+    {
       "repo": "https://raw.githubusercontent.com/NengGanHui/com.bandbbs.ebook-AstroBox/refs/heads/main/",
       "folder": "dist",
       "manifest": {
@@ -623,7 +644,7 @@
       "manifest": {
         "name": "Kovela",
         "icon": "icon.png",
-        "version": "1.9.4",
+        "version": "1.9.5",
         "description": "验证购买并为 mi-vela 应用安全激活",
         "author": "Komorebi",
         "website": "https://kovela.komoridevs.icu",
@@ -912,7 +933,7 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.2.0",
+        "version": "1.3.1",
         "description": "Chem 客户端：NoirMusic 音乐导入与曲库管理",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
