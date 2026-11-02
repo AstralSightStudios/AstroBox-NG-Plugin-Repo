@@ -40,3 +40,4 @@ https://raw.githubusercontent.com/Alittlejelly/nexio-band-sync/refs/heads/main/
 https://raw.githubusercontent.com/ashafizullah/astrobox-resource-com.ashafizullah.klikband/refs/heads/main/
 https://raw.githubusercontent.com/OctopusCat101/ChemClient/refs/heads/main/
 https://raw.githubusercontent.com/Dreamqiucn/dreamhub-bridge-astrobox/refs/heads/main/
+https://raw.githubusercontent.com/sxsznb/Xiaomi-Watch-Time-Sync/refs/heads/main/
