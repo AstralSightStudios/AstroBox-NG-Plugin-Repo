@@ -41,3 +41,4 @@ https://raw.githubusercontent.com/ashafizullah/astrobox-resource-com.ashafizulla
 https://raw.githubusercontent.com/OctopusCat101/ChemClient/refs/heads/main/
 https://raw.githubusercontent.com/Dreamqiucn/dreamhub-bridge-astrobox/refs/heads/main/
 https://raw.githubusercontent.com/sxsznb/Xiaomi-Watch-Time-Sync/refs/heads/main/
+https://raw.githubusercontent.com/leezelyn/melo/refs/heads/main/
