@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T11:54:50.337Z",
+  "generatedAt": "2026-11-05T15:20:16.172Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1166,6 +1166,28 @@
           "device",
           "request",
           "register_transport_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/leezelyn/melo/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "环间音乐传歌",
+        "icon": "icon.png",
+        "version": "0.2.8",
+        "description": "API Level 3 原生传歌插件，直接使用 ABox 已连接设备，支持 MP3 片段、歌词与保存校验。",
+        "author": "Leon",
+        "website": "https://github.com/leezelyn/melo",
+        "entry": "plugin.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "device",
+          "interconnect",
+          "thirdpartyapp",
+          "register_interconnect_recv"
         ],
         "additional_files": []
       }
