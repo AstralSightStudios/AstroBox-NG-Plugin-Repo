@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T11:50:59.428Z",
+  "generatedAt": "2026-11-06T14:59:41.243Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1190,6 +1190,35 @@
           "register_interconnect_recv"
         ],
         "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/YcFeller/XunriPic-AstroBox-Release/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "寻日图库同步助手",
+        "icon": "icon.png",
+        "version": "1.1.2",
+        "description": "将本机与云端照片发送到寻日图库，管理手环照片和分类。",
+        "author": "ycfeller",
+        "website": "https://github.com/YcFeller/XunriPic",
+        "entry": "xunripic_astrobox.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "thirdpartyapp",
+          "interconnect",
+          "register_interconnect_recv",
+          "browser",
+          "network",
+          "clipboard.write",
+          "os.device-id"
+        ],
+        "additional_files": [
+          "LICENSE.txt",
+          "THIRD_PARTY_NOTICES.txt"
+        ]
       }
     }
   ]
