@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T19:35:14.926Z",
+  "generatedAt": "2026-11-06T00:47:57.771Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1176,8 +1176,8 @@
       "manifest": {
         "name": "环间音乐传歌",
         "icon": "icon.png",
-        "version": "0.2.8",
-        "description": "API Level 3 原生传歌插件，直接使用 ABox 已连接设备，支持 MP3 片段、歌词与保存校验。",
+        "version": "0.2.9",
+        "description": "API Level 3 原生传歌插件，自动识别接收应用，支持 MP3 片段、音质、歌词与保存校验。",
         "author": "Leon",
         "website": "https://github.com/leezelyn/melo",
         "entry": "plugin.wasm",
