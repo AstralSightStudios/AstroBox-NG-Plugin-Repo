@@ -43,3 +43,4 @@ https://raw.githubusercontent.com/Dreamqiucn/dreamhub-bridge-astrobox/refs/heads
 https://raw.githubusercontent.com/sxsznb/Xiaomi-Watch-Time-Sync/refs/heads/main/
 https://raw.githubusercontent.com/leezelyn/melo/refs/heads/main/
 https://raw.githubusercontent.com/YcFeller/XunriPic-AstroBox-Release/refs/heads/main/
+https://raw.githubusercontent.com/XuebaoHachimi/hachimi-sync-astrobox-release/refs/heads/main/
