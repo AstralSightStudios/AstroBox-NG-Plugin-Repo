@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T05:41:05.048Z",
+  "generatedAt": "2026-11-07T14:42:18.813Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1111,7 +1111,7 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.4.2",
+        "version": "1.4.3",
         "description": "Chem 客户端：NoirMusic 音乐导入与曲库管理",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
