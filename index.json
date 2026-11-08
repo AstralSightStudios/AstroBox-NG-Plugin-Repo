@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T23:27:44.090Z",
+  "generatedAt": "2026-11-08T01:11:47.028Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1219,6 +1219,29 @@
           "LICENSE.txt",
           "THIRD_PARTY_NOTICES.txt"
         ]
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/XuebaoHachimi/hachimi-sync-astrobox-release/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "哈基米同步器",
+        "icon": "icon.png",
+        "version": "1.0.8",
+        "description": "为支持的游戏提供代理联网",
+        "author": "XuebaoHachimi",
+        "website": "https://easejun.cn",
+        "entry": "hachimi_sync_astrobox.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "device",
+          "thirdpartyapp",
+          "register_interconnect_recv",
+          "interconnect",
+          "network"
+        ],
+        "additional_files": []
       }
     }
   ]
