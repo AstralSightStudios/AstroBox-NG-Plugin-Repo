@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T14:47:52.675Z",
+  "generatedAt": "2026-11-08T16:01:15.969Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1240,6 +1240,28 @@
           "register_interconnect_recv",
           "interconnect",
           "network"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Mia-298/ForwardTime/refs/heads/main/",
+      "folder": "astrobox-plugin-v2/dist",
+      "manifest": {
+        "name": "正计时配置",
+        "icon": "icon.png",
+        "version": "1.1.1",
+        "description": "小米手环 9 正计时项目管理、同步和历史记录查询",
+        "author": "Mia-298",
+        "website": "https://github.com/Mia-298/ForwardTime",
+        "entry": "forward_timer_config.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "thirdpartyapp",
+          "register_interconnect_recv",
+          "interconnect"
         ],
         "additional_files": []
       }
