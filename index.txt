@@ -45,3 +45,4 @@ https://raw.githubusercontent.com/leezelyn/melo/refs/heads/main/
 https://raw.githubusercontent.com/YcFeller/XunriPic-AstroBox-Release/refs/heads/main/
 https://raw.githubusercontent.com/XuebaoHachimi/hachimi-sync-astrobox-release/refs/heads/main/
 https://raw.githubusercontent.com/CheongSzesuen/abcc-plugin-review-test/refs/heads/main/
+https://raw.githubusercontent.com/CheongSzesuen/abcc-plugin-review-test/refs/heads/alt/
