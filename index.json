@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T04:55:10.921Z",
+  "generatedAt": "2026-11-09T15:32:36.979Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1262,6 +1262,30 @@
           "thirdpartyapp",
           "register_interconnect_recv",
           "interconnect"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/yamu81663-dot/suibian-wallpaper-plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "随变壁纸导入",
+        "icon": "icon.png",
+        "version": "0.9.3",
+        "description": "选一张 336×480 的 PNG 原样推送到手表「随变壁纸」快应用；非标准尺寸请用内置裁剪工具链接处理",
+        "author": "迟雪",
+        "website": "https://github.com/yamu81663-dot/suibian-wallpaper-plugin",
+        "entry": "plugin.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "dialog",
+          "interconnect",
+          "thirdpartyapp",
+          "register_interconnect_recv",
+          "clipboard.write"
         ],
         "additional_files": []
       }
