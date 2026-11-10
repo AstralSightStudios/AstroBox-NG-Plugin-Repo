@@ -47,3 +47,4 @@ https://raw.githubusercontent.com/XuebaoHachimi/hachimi-sync-astrobox-release/re
 https://raw.githubusercontent.com/Mia-298/ForwardTime/refs/heads/main/
 https://raw.githubusercontent.com/yamu81663-dot/suibian-wallpaper-plugin/refs/heads/main/
 https://raw.githubusercontent.com/Wildchiken/WristNote-Sync-AstroBox-Plugin/refs/heads/main/
+https://raw.githubusercontent.com/xbtnb/sprite-sync-astrobox/refs/heads/main/
