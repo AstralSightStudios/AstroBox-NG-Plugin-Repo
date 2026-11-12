@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T05:58:58.118Z",
+  "generatedAt": "2026-11-12T16:36:34.425Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1111,8 +1111,8 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.4.3",
-        "description": "Chem 客户端：NoirMusic 音乐导入与曲库管理",
+        "version": "1.7.20",
+        "description": "Chem 客户端：模块管理、启用控制与 NoirMusic 音乐导入",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
         "entry": "chemclient.wasm",
@@ -1121,9 +1121,13 @@
         "permissions": [
           "request",
           "register_transport_recv",
-          "device"
+          "device",
+          "watchface",
+          "queue"
         ],
-        "additional_files": []
+        "additional_files": [
+          "cloud.json"
+        ]
       }
     },
     {
