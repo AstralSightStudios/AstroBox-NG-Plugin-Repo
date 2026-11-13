@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T00:54:56.751Z",
+  "generatedAt": "2026-11-13T11:53:29.574Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -850,7 +850,7 @@
       "manifest": {
         "name": "Corona CRPack Builder",
         "icon": "icon.png",
-        "version": "1.0.8",
+        "version": "1.0.9",
         "description": "从手环固件资源树创建 Corona CRPack v1 主题包",
         "author": "lesetong",
         "website": "https://leseto.ng",
@@ -1111,8 +1111,8 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.7.20",
-        "description": "Chem 客户端：模块管理、启用控制与 NoirMusic 音乐导入",
+        "version": "1.7.32",
+        "description": "Chem 客户端：模块管理、NoirMusic 音乐与 Magic 资源包导入",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
         "entry": "chemclient.wasm",
