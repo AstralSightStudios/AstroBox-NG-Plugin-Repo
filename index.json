@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T00:41:24.831Z",
+  "generatedAt": "2026-11-14T09:37:46.436Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -402,28 +402,6 @@
           "interconnect",
           "register_interconnect_recv",
           "thirdpartyapp"
-        ],
-        "additional_files": []
-      }
-    },
-    {
-      "repo": "https://raw.githubusercontent.com/Jursin/Schedule-AstroBox-Plugin/refs/heads/main/",
-      "folder": "dist",
-      "manifest": {
-        "name": "腕上课程表同步器",
-        "icon": "icon.png",
-        "version": "1.2.1",
-        "description": "腕上课程表同步器插件",
-        "author": "Jursin",
-        "website": "https://github.com/Jursin/Schedule-AstroBox-Plugin",
-        "entry": "schedule_plugin_rust.wasm",
-        "wasi_version": 2,
-        "api_level": 3,
-        "permissions": [
-          "device",
-          "interconnect",
-          "thirdpartyapp",
-          "clipboard.write"
         ],
         "additional_files": []
       }
@@ -904,7 +882,8 @@
           "interconnect",
           "thirdpartyapp",
           "register_interconnect_recv",
-          "dialog"
+          "dialog",
+          "network"
         ],
         "additional_files": []
       }
@@ -1111,7 +1090,7 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.7.32",
+        "version": "1.7.34",
         "description": "Chem 客户端：模块管理、NoirMusic 音乐与 Magic 资源包导入",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
