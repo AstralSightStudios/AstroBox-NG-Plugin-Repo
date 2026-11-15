@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T23:40:08.935Z",
+  "generatedAt": "2026-11-15T04:32:26.910Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1090,7 +1090,7 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.7.35",
+        "version": "1.7.36",
         "description": "Chem 客户端：模块管理、NoirMusic 音乐与 Magic 资源包导入",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
@@ -1324,7 +1324,7 @@
       "manifest": {
         "name": "Doom WAD Sender",
         "icon": "icon.png",
-        "version": "0.1.0",
+        "version": "0.2.0",
         "description": "用于发送doom wad文件，请搭配快应用doom wad loader以及原生doom使用，传输时请确保手机插件界面以及手环接收器在前台运行，由于版权问题，wad文件请自行下载",
         "author": "IRKBI",
         "website": "",
@@ -1339,6 +1339,27 @@
           "get_thirdparty_app_list",
           "interconnect",
           "register_interconnect_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/qxdho/chaos-astrobox-plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "Chaos Connect",
+        "icon": "icon.png",
+        "version": "0.2.4",
+        "description": "通过ChaosConnect私有协议管理Chaos设备文件，支持窗口传输、CRC校验及实际速度统计。",
+        "author": "IKUN_CXKPRO",
+        "website": "",
+        "entry": "astrobox_plugin_chaos_connect.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "request",
+          "register_transport_recv",
+          "device"
         ],
         "additional_files": []
       }
