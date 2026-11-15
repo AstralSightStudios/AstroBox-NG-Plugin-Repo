@@ -49,3 +49,4 @@ https://raw.githubusercontent.com/Wildchiken/WristNote-Sync-AstroBox-Plugin/refs
 https://raw.githubusercontent.com/xbtnb/sprite-sync-astrobox/refs/heads/main/
 https://raw.githubusercontent.com/IRKBI/doom-wad-sender-plugin/refs/heads/main/
 https://raw.githubusercontent.com/qxdho/chaos-astrobox-plugin/refs/heads/main/
+https://raw.githubusercontent.com/Solan-486/AstroBox-NG-Plugin-Repo-Weather/refs/heads/main/
