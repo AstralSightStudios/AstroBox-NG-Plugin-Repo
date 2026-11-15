@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T04:32:26.910Z",
+  "generatedAt": "2026-11-15T04:56:39.522Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1360,6 +1360,29 @@
           "request",
           "register_transport_recv",
           "device"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Solan-486/AstroBox-NG-Plugin-Repo-Weather/refs/heads/main/",
+      "folder": "release",
+      "manifest": {
+        "name": "微风天气同步器",
+        "icon": "icon.png",
+        "version": "0.6.0",
+        "description": "用于向手表端微风天气同步天气数据",
+        "author": "Solan",
+        "website": "https://weather.solan.work",
+        "entry": "plugin.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "network",
+          "device",
+          "thirdpartyapp",
+          "interconnect",
+          "register_interconnect_recv"
         ],
         "additional_files": []
       }
