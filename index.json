@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T15:24:25.040Z",
+  "generatedAt": "2026-11-15T15:26:26.054Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1208,6 +1208,30 @@
           "thirdpartyapp",
           "interconnect",
           "register_interconnect_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/dm1366631/AstroBox-NG-Plugin-WristMapSync/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "腕上地图同步器",
+        "icon": "icon.png",
+        "version": "202611154",
+        "description": "本地地图包：把电脑侧生成的 .obm 离线包导入本机，按 v5 分片协议经 local:// 供手环地图快应用取包。",
+        "author": "openblack",
+        "website": "https://openblack.top",
+        "entry": "astrobox_plugin_miwear_interconn_fetch.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "thirdpartyapp",
+          "interconnect",
+          "register_interconnect_recv",
+          "register_card",
+          "device",
+          "dialog"
         ],
         "additional_files": []
       }
