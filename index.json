@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T02:47:56.101Z",
+  "generatedAt": "2026-11-17T04:14:28.552Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1232,6 +1232,29 @@
           "register_card",
           "device",
           "dialog"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Wildchiken/WristFeed-Sync-AstroBox-Plugin/refs/heads/main/",
+      "folder": "release",
+      "manifest": {
+        "name": "腕读同步",
+        "icon": "icon.png",
+        "version": "0.2.0",
+        "description": "把 RSS / Atom 订阅的文章同步到手环上的「腕读」，同步一次，离线慢慢看。",
+        "author": "Wildchiken",
+        "website": "",
+        "entry": "wristfeed_sync.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "network",
+          "device",
+          "interconnect",
+          "register_interconnect_recv",
+          "thirdpartyapp"
         ],
         "additional_files": []
       }
