@@ -52,3 +52,4 @@ https://raw.githubusercontent.com/qxdho/chaos-astrobox-plugin/refs/heads/main/
 https://raw.githubusercontent.com/Solan-486/AstroBox-NG-Plugin-Repo-Weather/refs/heads/main/
 https://raw.githubusercontent.com/dm1366631/AstroBox-NG-Plugin-WristMapSync/refs/heads/main/
 https://raw.githubusercontent.com/Wildchiken/WristFeed-Sync-AstroBox-Plugin/refs/heads/main/
+https://raw.githubusercontent.com/Nyx-233/PocketNewsSync-AstroBox-Plugin/refs/heads/main/
