@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T12:48:52.027Z",
+  "generatedAt": "2026-11-17T14:39:19.538Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1174,8 +1174,8 @@
       "manifest": {
         "name": "Chaos Connect",
         "icon": "icon.png",
-        "version": "0.2.4",
-        "description": "通过ChaosConnect私有协议管理Chaos设备文件，支持窗口传输、CRC校验及实际速度统计。",
+        "version": "0.3.0",
+        "description": "通过ChaosConnect管理设备文件并连接手环独立NSH终端，支持权限管控、窗口传输与CRC校验。",
         "author": "IKUN_CXKPRO",
         "website": "",
         "entry": "astrobox_plugin_chaos_connect.wasm",
@@ -1249,6 +1249,29 @@
         "entry": "wristfeed_sync.wasm",
         "wasi_version": 2,
         "api_level": 3,
+        "permissions": [
+          "network",
+          "device",
+          "interconnect",
+          "register_interconnect_recv",
+          "thirdpartyapp"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Nyx-233/PocketNewsSync-AstroBox-Plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "随身新闻同步器",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "获取最新最热新闻并推送到手环",
+        "author": "一個小果冻、Nyx233",
+        "website": "",
+        "entry": "pocket_news_sync.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
         "permissions": [
           "network",
           "device",
