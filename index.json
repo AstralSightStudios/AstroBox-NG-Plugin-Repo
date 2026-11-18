@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T06:10:25.880Z",
+  "generatedAt": "2026-11-18T15:13:29.306Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1102,7 +1102,7 @@
       "manifest": {
         "name": "腕记同步",
         "icon": "icon.png",
-        "version": "0.1.0",
+        "version": "0.2.0",
         "description": "读取、复制、导出手环上「腕记」的记事，也能把手机上写好的文字发到手环。",
         "author": "Wildchiken",
         "website": "https://github.com/Wildchiken/WristNote-Sync-AstroBox-Plugin",
@@ -1174,8 +1174,8 @@
       "manifest": {
         "name": "Chaos Connect",
         "icon": "icon.png",
-        "version": "0.3.0",
-        "description": "通过ChaosConnect管理设备文件并连接手环独立NSH终端，支持权限管控、窗口传输与CRC校验。",
+        "version": "0.3.3",
+        "description": "通过ChaosConnect私有协议管理设备文件，支持窗口传输、CRC校验及实际速度统计。",
         "author": "IKUN_CXKPRO",
         "website": "",
         "entry": "astrobox_plugin_chaos_connect.wasm",
@@ -1278,6 +1278,27 @@
           "interconnect",
           "register_interconnect_recv",
           "thirdpartyapp"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/DDlhy/WavAudio-Music-Importer/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "WavAudio音乐导入器",
+        "icon": "icon.png",
+        "version": "0.2.0",
+        "description": "将本地音频转换为 WavAudio 格式，并通过音乐载体直接导入小米手环。",
+        "author": "lhy",
+        "website": "https://github.com/DDlhy/WavAudio-Music-Importer",
+        "entry": "wavaudio_importer.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "mass",
+          "watchface"
         ],
         "additional_files": []
       }
