@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T05:57:15.293Z",
+  "generatedAt": "2026-11-20T16:40:52.064Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -915,7 +915,7 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.7.38",
+        "version": "1.7.39",
         "description": "Chem 客户端：模块管理、NoirMusic 音乐与 Magic 资源包导入",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
@@ -1218,7 +1218,7 @@
       "manifest": {
         "name": "腕上地图同步器",
         "icon": "icon.png",
-        "version": "202611154",
+        "version": "202611155",
         "description": "本地地图包：把电脑侧生成的 .obm 离线包导入本机，按 v5 分片协议经 local:// 供手环地图快应用取包。",
         "author": "openblack",
         "website": "https://openblack.top",
@@ -1299,6 +1299,29 @@
           "device",
           "mass",
           "watchface"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/AzumaChiaki/AzkiServer-AstroBox-Plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "Azki Server",
+        "icon": "icon.png",
+        "version": "0.0.1(beta)",
+        "description": "Azki 系列 · 激活并安装 Azki 资源（表盘与快应用）。支持兑换码或爱发电订单号激活，可直接安装本机已授权的资源，输入开发者证书可开启开发人员选项。",
+        "author": "AzumaChiaki",
+        "website": "https://github.com/AzumaChiaki/AzkiServer-AstroBox-Plugin",
+        "entry": "azvf_astro_plugin.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "request",
+          "queue",
+          "account.profile",
+          "os.device-id"
         ],
         "additional_files": []
       }
