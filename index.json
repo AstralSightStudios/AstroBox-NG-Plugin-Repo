@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T15:59:47.748Z",
+  "generatedAt": "2026-11-21T21:27:57.147Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -567,7 +567,7 @@
       "manifest": {
         "name": "甜蜜女友2导入器",
         "icon": "icon.png",
-        "version": "4.5.12",
+        "version": "4.6.3",
         "description": "把《甜蜜女友2》的章节图片同步到手环，并管理存档、阅读统计与云存档（HTML 界面 · API Level 4）",
         "author": "其核",
         "website": "https://miband.qihe0507.top/",
