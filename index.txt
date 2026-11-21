@@ -57,3 +57,4 @@ https://raw.githubusercontent.com/DDlhy/WavAudio-Music-Importer/refs/heads/main/
 https://raw.githubusercontent.com/AzumaChiaki/AzkiServer-AstroBox-Plugin/refs/heads/main/
 https://raw.githubusercontent.com/youshen2/com.bandbbs.ebook.plus-Plugin-Astrobox/refs/heads/main/
 https://raw.githubusercontent.com/SXM081115/ArkZMDGacher_AstroBoxPlugin-release/refs/heads/main/
+https://raw.githubusercontent.com/lkjhg10576/bandbox_helper/refs/heads/main/
