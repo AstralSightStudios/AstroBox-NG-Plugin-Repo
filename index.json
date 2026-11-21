@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T12:10:09.220Z",
+  "generatedAt": "2026-11-21T15:59:47.748Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1376,6 +1376,27 @@
           "thirdpartyapp",
           "timer",
           "clipboard.write"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/lkjhg10576/bandbox_helper/refs/heads/main/",
+      "folder": "release",
+      "manifest": {
+        "name": "BandBox辅助",
+        "icon": "icon.png",
+        "version": "0.1.2",
+        "description": "LRC 歌词推送 + 动态口令（TOTP）账户同步：手机端选歌词或批量导入 otpauth:// 账户，与手环 BandBox 双向同步",
+        "author": "BandBox",
+        "website": "https://atomgit.com/gcw_MchqrexB/bandbox_helper",
+        "entry": "plugin.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "interconnect",
+          "register_interconnect_recv"
         ],
         "additional_files": []
       }
