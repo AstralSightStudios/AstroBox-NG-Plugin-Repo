@@ -55,3 +55,4 @@ https://raw.githubusercontent.com/Wildchiken/WristFeed-Sync-AstroBox-Plugin/refs
 https://raw.githubusercontent.com/Nyx-233/PocketNewsSync-AstroBox-Plugin/refs/heads/main/
 https://raw.githubusercontent.com/DDlhy/WavAudio-Music-Importer/refs/heads/main/
 https://raw.githubusercontent.com/AzumaChiaki/AzkiServer-AstroBox-Plugin/refs/heads/main/
+https://raw.githubusercontent.com/youshen2/com.bandbbs.ebook.plus-Plugin-Astrobox/refs/heads/main/
