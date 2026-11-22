@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T05:45:19.214Z",
+  "generatedAt": "2026-11-22T09:25:10.040Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1464,6 +1464,30 @@
           "interconnect",
           "dialog",
           "browser"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/play3yy/pkr-band-bridge/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "宝可梦肉鸽同步器",
+        "icon": "icon_v2.png",
+        "version": "1.2.3",
+        "description": "宝可梦肉鸽专用同步器：内置精灵图集并按校验清单同步到手表缓存，实时列出手表已有图纸，支持手表进度的本地备份与恢复。",
+        "author": "pkr-band",
+        "website": "https://github.com/play3yy/pkr-band-bridge",
+        "entry": "pkr_band_bridge.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "thirdpartyapp",
+          "interconnect",
+          "register_interconnect_recv",
+          "register_card",
+          "device",
+          "network"
         ],
         "additional_files": []
       }
