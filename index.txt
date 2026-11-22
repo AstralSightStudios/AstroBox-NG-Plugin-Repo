@@ -60,3 +60,4 @@ https://raw.githubusercontent.com/SXM081115/ArkZMDGacher_AstroBoxPlugin-release/
 https://raw.githubusercontent.com/lkjhg10576/bandbox_helper/refs/heads/main/
 https://raw.githubusercontent.com/O-O1112/band-browser/refs/heads/main/
 https://raw.githubusercontent.com/MingChengNetworkStudio/Eclipse-Sync-AstroBoxV2-Plugins/refs/heads/main/
+https://raw.githubusercontent.com/FIB-Wyx/qrpay-plugin/refs/heads/main/
