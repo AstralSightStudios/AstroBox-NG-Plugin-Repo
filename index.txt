@@ -59,3 +59,4 @@ https://raw.githubusercontent.com/youshen2/com.bandbbs.ebook.plus-Plugin-Astrobo
 https://raw.githubusercontent.com/SXM081115/ArkZMDGacher_AstroBoxPlugin-release/refs/heads/main/
 https://raw.githubusercontent.com/lkjhg10576/bandbox_helper/refs/heads/main/
 https://raw.githubusercontent.com/O-O1112/band-browser/refs/heads/main/
+https://raw.githubusercontent.com/MingChengNetworkStudio/Eclipse-Sync-AstroBoxV2-Plugins/refs/heads/main/
