@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T21:27:57.147Z",
+  "generatedAt": "2026-11-22T03:05:05.741Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -915,8 +915,8 @@
       "manifest": {
         "name": "ChemClient",
         "icon": "icon.png",
-        "version": "1.7.43",
-        "description": "Chem 客户端，支持模块管理与 NoirMusic、Magic、HBL2D 内容导入",
+        "version": "1.7.44",
+        "description": "Chem 客户端，支持模块管理与 NoirMusic、Magic 内容导入",
         "author": "Chem contributors",
         "website": "https://github.com/OctopusCat101/ChemClient",
         "entry": "chemclient.wasm",
@@ -1396,6 +1396,29 @@
         "permissions": [
           "device",
           "interconnect",
+          "register_interconnect_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/O-O1112/band-browser/refs/heads/main/",
+      "folder": "astrobox-plugin/dist",
+      "manifest": {
+        "name": "流沙浏览器同步插件",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "流沙浏览器配套网络代理模块：通过 WASI HTTP 直接抓取网页并抽取正文与超链接传送至小米手环 9 Pro",
+        "author": "O-O1112",
+        "website": "https://github.com/O-O1112/band-browser",
+        "entry": "band_browser_sync.wasm",
+        "wasi_version": 2,
+        "api_level": 3,
+        "permissions": [
+          "device",
+          "interconnect",
+          "network",
+          "thirdpartyapp",
           "register_interconnect_recv"
         ],
         "additional_files": []
