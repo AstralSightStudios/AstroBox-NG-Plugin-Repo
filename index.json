@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T05:25:55.337Z",
+  "generatedAt": "2026-11-22T05:45:19.214Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1442,6 +1442,28 @@
           "thirdpartyapp",
           "device",
           "register_interconnect_recv"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/FIB-Wyx/qrpay-plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "QRPay-Import",
+        "icon": "icon.png",
+        "version": "0.2.1",
+        "description": "把微信个人收款码发送到手表「收款码」快应用",
+        "author": "Wyx",
+        "website": "https://github.com/FIB-Wyx/qrpay-plugin",
+        "entry": "plugin.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "interconnect",
+          "dialog",
+          "browser"
         ],
         "additional_files": []
       }
