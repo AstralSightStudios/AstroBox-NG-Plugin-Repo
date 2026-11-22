@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T09:25:10.040Z",
+  "generatedAt": "2026-11-22T15:57:43.335Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1244,7 +1244,7 @@
       "manifest": {
         "name": "腕读同步",
         "icon": "icon.png",
-        "version": "0.2.3",
+        "version": "0.2.4",
         "description": "把 RSS / Atom 订阅的文章同步到手环上的「腕读」，同步一次，离线慢慢看。",
         "author": "Wildchiken",
         "website": "",
