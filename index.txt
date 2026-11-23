@@ -62,3 +62,4 @@ https://raw.githubusercontent.com/O-O1112/band-browser/refs/heads/main/
 https://raw.githubusercontent.com/MingChengNetworkStudio/Eclipse-Sync-AstroBoxV2-Plugins/refs/heads/main/
 https://raw.githubusercontent.com/FIB-Wyx/qrpay-plugin/refs/heads/main/
 https://raw.githubusercontent.com/play3yy/pkr-band-bridge/refs/heads/main/
+https://raw.githubusercontent.com/sharpice6/ygame-act/refs/heads/main/
