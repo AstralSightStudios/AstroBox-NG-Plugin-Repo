@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T06:01:29.125Z",
+  "generatedAt": "2026-11-23T14:41:13.016Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1244,7 +1244,7 @@
       "manifest": {
         "name": "腕读同步",
         "icon": "icon.png",
-        "version": "0.2.4",
+        "version": "0.2.5",
         "description": "把 RSS / Atom 订阅的文章同步到手环上的「腕读」，同步一次，离线慢慢看。",
         "author": "Wildchiken",
         "website": "",
@@ -1488,6 +1488,27 @@
           "register_card",
           "device",
           "network"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/Hobjl-lian/panfang-astrobox-plugin/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "盘坊视频表盘",
+        "icon": "icon.png",
+        "version": "0.1.1",
+        "description": "把盘坊的视频表盘制作页接进 AstroBox：选视频、截取片段，生成后直接安装到手表。需要 AstroBox 2.2.6 或更高版本。",
+        "author": "Hobjl",
+        "website": "https://hobjl-shop.top",
+        "entry": "panfang_video_plugin.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "browser",
+          "queue",
+          "device"
         ],
         "additional_files": []
       }
