@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T13:55:53.676Z",
+  "generatedAt": "2026-11-25T14:58:17.378Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1533,6 +1533,27 @@
           "queue",
           "device",
           "register_deeplink_action"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/oraserz/astrobox-plugin-nespro/refs/heads/main/",
+      "folder": "dist",
+      "manifest": {
+        "name": "nespro同步器",
+        "icon": "icon.png",
+        "version": "1.0.0",
+        "description": "把 NES ROM 打包成表盘直接推送到手环，并在 nespro 里开玩",
+        "author": "0nd9ama",
+        "website": "",
+        "entry": "nespro.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "device",
+          "dialog",
+          "queue"
         ],
         "additional_files": []
       }
