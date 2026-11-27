@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T20:59:05.770Z",
+  "generatedAt": "2026-11-27T06:59:35.691Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1474,8 +1474,8 @@
       "manifest": {
         "name": "宝可梦肉鸽同步器",
         "icon": "icon_v2.png",
-        "version": "1.2.3",
-        "description": "宝可梦肉鸽专用同步器：内置精灵图集并按校验清单同步到手表缓存，实时列出手表已有图纸，支持手表进度的本地备份与恢复。",
+        "version": "1.5.5",
+        "description": "宝可梦肉鸽专用同步器：内置精灵图集（含 Mega 进化与极巨化立绘）并按校验清单同步到手表缓存，实时列出手表已有图纸，支持手表进度的本地备份与恢复；每局结束的成绩汇总成排行榜（经典/无尽最高层、最快通关），并上报在线全球榜——每台设备每个榜只保留最好一条，成绩更高才替换；支持手动同步手表积压成绩；手机端可设置昵称，榜单展示收尾队伍与等级（角色小图随包内嵌）。",
         "author": "pkr-band",
         "website": "https://github.com/play3yy/pkr-band-bridge",
         "entry": "pkr_band_bridge.wasm",
