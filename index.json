@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-28T12:43:59.320Z",
+  "generatedAt": "2026-11-28T14:27:00.560Z",
   "source": "index.txt",
   "plugins": [
     {
@@ -1532,6 +1532,32 @@
           "device",
           "dialog",
           "queue"
+        ],
+        "additional_files": []
+      }
+    },
+    {
+      "repo": "https://raw.githubusercontent.com/BKbkNB666/QUJIANMAPro-Plugin/refs/heads/main/",
+      "folder": "release",
+      "manifest": {
+        "name": "取件码面板",
+        "icon": "icon.png",
+        "version": "4.3.0",
+        "description": "此插件方便为取件码 Pro 提供快递平台凭证的传输。",
+        "author": "BK",
+        "website": "https://qjm.bksystem.xyz",
+        "entry": "pickup_sync.wasm",
+        "wasi_version": 3,
+        "api_level": 4,
+        "permissions": [
+          "ui",
+          "dialog",
+          "timer",
+          "network",
+          "browser",
+          "device",
+          "interconnect",
+          "http-server"
         ],
         "additional_files": []
       }
